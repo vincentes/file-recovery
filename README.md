@@ -1,3 +1,5 @@
+![FILE RECOVERY](assets/file-recovery-banner.png)
+
 # file-recovery
 
 A **READ-ONLY** file carving tool for macOS, written in Rust. It scans raw disk
